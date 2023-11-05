@@ -1,0 +1,3 @@
+[submodule "external/libcxx"]
+	path = external/libcxx
+	url = https://github.com/LSPosed/libcxx.git
